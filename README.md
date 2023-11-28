@@ -11,11 +11,16 @@ I'm a CS student with interests in software development, data science, and artif
 
 ## Skills
 
-- Programming Languages: C++ Java Python SQL
-- 
+Programming Languages: 
+
+- C++
+- Java
+- Python
+- SQL
+  
 ## Projects
 
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/bensu-gümüş-9526522a1/
-gumusbensu@sabanciuniv.edu
+- email: gumusbensu@sabanciuniv.edu
